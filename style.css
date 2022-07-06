@@ -252,26 +252,28 @@ p{
     display: flex;
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: #AA9F9F;
+    background-color:cadetblue;
     margin-left: 20%;
     margin-right: 20%;
 
 }
 
-.humble{
-    padding-top: 100px;
-    padding-bottom: 100px;
+
+.footer{
+    padding: 80px;
     text-align: center;
-    font-family:cursive;
-    color: #FF5959;
     background-color: black;
-    background-size: 100%;
 }
 
-.seventh_part{
-    background-size: 100%;   
+#donate_footer{
+    color: salmon;
+    font-size: larger;
 }
 
-footer{
-    text-align: center;
+#copyright_footer{
+    color: white;
+}
+
+.sixth{
+    padding-bottom: 100px;
 }
