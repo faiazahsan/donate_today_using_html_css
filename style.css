@@ -1,0 +1,277 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 500%;
+}
+
+h2{
+    font-size: 300%;
+}
+
+
+p{
+    font-size: 200;
+}
+
+.first_part{
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.8)),url(images/donation13.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    height: 600px;
+    
+
+}
+
+.first_part_1{
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.donate_now_button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, salmon);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.donate_now_button_2{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, salmon);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-left: 44%;
+}
+
+#most_areas{
+    padding-bottom: 40px;
+}
+
+.second_part_1{
+
+    text-align: center;
+}
+
+#donate_today{
+    padding-top: 60px;
+}
+
+.paragraph_color{
+    margin-left: 25%;
+    margin-right: 25%;
+    color: darkgrey;
+}
+
+.flexible{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#taka_color{
+    color: darkgrey;
+}
+
+.donation_amount{
+    color: darkgrey;
+    margin: 50px;
+    width: 100px;
+    border: 1px solid #FAFAFA;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: #FAFAFA;
+    border-radius: 20px;
+
+}
+
+.donation_amount:hover{
+    background-color: #FFEEEE;
+    border: 1px solid #FF5959;
+    color: #FF5959;
+}
+
+.amount_input{
+    padding: 40px;
+    text-align: center;
+}
+
+.input_tag{
+    text-align: center;
+    color: darkgrey;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: darkgrey;
+    width: 60%;
+
+}
+
+.third_part{
+    padding-top: 100px;
+    text-align: center;
+}
+
+.third_part_p_color{
+    color: darkgrey;
+}
+
+.flexible2{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+#education_icon{
+    width: 53px;
+    height: 53px;
+}
+
+.donation_plan{
+    padding: 50px;
+}
+
+.food_for_family{
+    background-color: rgba(79,157,166,0.1);
+    margin-right: 20px;
+}
+
+.shelter{
+    background-color: rgba(255,89,89,0.1);
+    margin-right: 20px;
+}
+
+.education{
+    background-color:bisque;
+}
+
+.your_donation{
+    padding-right: 100px;
+}
+
+.your_donation_p{
+    color: darkgrey;
+}
+
+.your_donation_p_2{
+    color: darkgrey;
+    padding-bottom: 20px;
+}
+
+.donation_image img{
+    border-radius: 10px;
+}
+
+.flexible3{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    justify-content: space-between;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.contribute{
+    text-align: left;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, salmon);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.flexible4{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    justify-content: space-between;
+    padding-bottom: 200px;
+}
+
+.flood img{
+    width: 456px;
+    height: 477px;
+    border-radius: 10px;
+}
+
+.flood_content{
+    padding-left: 100px;
+}
+
+.flood_content_p{
+    color: darkgrey;
+}
+
+.flood_content_p_2{
+    color: darkgrey;
+    padding-bottom: 20px;
+}
+
+.updates{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#p_color{
+    color: darkgrey;
+}
+
+
+.email{
+    border: none;
+    padding: 15px;
+    width: 600px;
+    background-color: lightgray;
+    color: darkgray;
+    margin-left: 10%;
+}
+
+.button{
+    color: white;
+    background-color: salmon;
+    margin-right: 10%;
+    border: none;
+    padding-top: 15px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+}
+
+.flexible5{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #AA9F9F;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.humble{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    font-family:cursive;
+    color: #FF5959;
+    background-color: black;
+    background-size: 100%;
+}
+
+.seventh_part{
+    background-size: 100%;   
+}
+
+footer{
+    text-align: center;
+}
